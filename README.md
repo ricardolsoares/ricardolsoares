@@ -26,4 +26,5 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ricardolsoares&show_icons=true" />
 </picture>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardolsoares&repo=github-readme-stats)](https://github.com/ricardolsoares/github-readme-stats)
