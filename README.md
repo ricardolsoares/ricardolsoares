@@ -17,9 +17,6 @@ Here are some ideas to get you started:
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardolsoares&show_icons=true&theme=radical)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardolsoares)](https://github.com/ricardolsoares/github-readme-stats)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ricardolsoares&show_icons=true&theme=dark"
