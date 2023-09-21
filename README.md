@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardolsoares&repo=github-readme-stats)](https://github.com/ricardolsoares/github-readme-stats)
 
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolsoares&size_weight=0.5&count_weight=0.5)
