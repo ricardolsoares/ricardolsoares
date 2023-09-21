@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardolsoares)](https://github.com/ricardolsoares/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ricardolsoares/github-readme-stats)
