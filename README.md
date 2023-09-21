@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there, my name is Ricardo 👋
 
-
+<!--
 **ricardolsoares/ricardolsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I am currently working as an EBTT Professor of Informatics,
 - 🌱 I am currently learning machine learning, deep learning, data mining and high performance computing.
 - 👯 I'm looking to collaborate with machine learning
