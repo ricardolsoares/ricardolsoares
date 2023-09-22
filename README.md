@@ -14,4 +14,6 @@
     <img align="center" alt=css3 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt=shell_script src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     <img align="center" alt=python src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
+</div><br/>
+
+Apaixonado por tecnologia inovadora e educação transformadora.
